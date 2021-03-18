@@ -1,0 +1,6 @@
+package com.example.demo.cmm.util;
+@FuncionalInterface
+public interface CustomPredicate<T> {
+	boolean Filter
+
+}
