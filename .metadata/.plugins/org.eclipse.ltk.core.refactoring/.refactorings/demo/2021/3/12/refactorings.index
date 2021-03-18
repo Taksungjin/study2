@@ -11,3 +11,9 @@
 1615958011233	Delete element
 1615958150085	Rename type 'CommonService'
 1615968556968	Move compilation units
+1616032617760	Rename package 'com.example.demo.sec.configuration'
+1616047891378	Delete element
+1616047901248	Move compilation unit
+1616047953759	Move compilation unit
+1616048418032	Rename type 'JwTokenProvider'
+1616048586122	Delete element
